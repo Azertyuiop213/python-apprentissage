@@ -39,3 +39,4 @@ class Guerrier(Personnage):
 arthur = Guerrier("Arthur", 120, 15)
 arthur.afficher()
 arthur.attaquer()
+
