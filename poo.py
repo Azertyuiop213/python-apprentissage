@@ -14,5 +14,8 @@ class Joueur:
 
 
 rex = Joueur("Rex", 10)
+lucie = Joueur("Lucie", 20)
 rex.afficher()
+lucie.afficher()
 rex.ajouter_points(5)
+lucie.ajouter_points(15)
